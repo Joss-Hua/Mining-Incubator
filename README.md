@@ -162,9 +162,8 @@ For miners successfully joined this program there will be cost savings to partic
 
 ### Run with Venus Implementation - User case（based on Venus v0.9.7 releases）
 
-**Deploy Venus Node：** https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md
-
-**Switch from Lotus to Venus：** https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Venus-replace-lotus.md
+- **[Deploy Venus Node](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md)**
+- **[Using-venus-Shared-Modules](https://github.com/filecoin-project/venus-docs/blob/master/docs/Using-venus-Shared-Modules.md)** 
 
 </br>
 
