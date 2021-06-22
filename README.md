@@ -42,7 +42,7 @@ Miner Incubation Center provides a series of free services to small miners by Ve
 
 ### What do this program provide
 
-Venus team made it possible through [Venus Distributed Ming Pool Architecture](https://github.com/filecoin-project/venus-docs/blob/master/docs/Overview.md) The incubation center will keep running shared modules like（[venus](https://github.com/filecoin-project/venus)、[venus-auth](https://github.com/filecoin-project/venus-auth)、[venus-messager](https://github.com/filecoin-project/venus-messager)、[venus-miner](https://github.com/filecoin-project/venus-miner)、[venus-gateway](https://github.com/ipfs-force-community/venus-gateway)），**miner can just run with** （[venus-sealer](https://github.com/filecoin-project/venus-sealer)、[venus-wallet](https://github.com/filecoin-project/venus-wallet)） and make sure to connect with distributed mining pool then can run with one or a few nodes at the same time.
+Venus team made it possible through [Venus Distributed Ming Pool Architecture](https://github.com/filecoin-project/venus-docs/blob/master/docs/Overview.md) The incubation center will keep running shared modules like（[venus](https://github.com/filecoin-project/venus), [venus-auth](https://github.com/filecoin-project/venus-auth), [venus-messager](https://github.com/filecoin-project/venus-messager), [venus-miner](https://github.com/filecoin-project/venus-miner), [venus-gateway](https://github.com/ipfs-force-community/venus-gateway)），**miner can just run with** （[venus-sealer](https://github.com/filecoin-project/venus-sealer)、[venus-wallet](https://github.com/filecoin-project/venus-wallet)） and make sure to connect with distributed mining pool then can run with one or a few nodes at the same time.
 
 There may be some issues with joining the incubation center, but we have a Venus team and Venus Masters to support you to do so.
 
@@ -66,7 +66,7 @@ The first term of Miner Incubation Center started from **2021/07/20 (~25) - 2021
 
 1. Saving cost to run with Venus Implementations
 
-Create and run (or switch from Lotus) your node through shared modules, those fees will be covered by the incubation center so that’s no cost to build your own shared modules like [venus](https://github.com/filecoin-project/venus)、[venus-auth](https://github.com/filecoin-project/venus-auth)、[venus-messager](https://github.com/filecoin-project/venus-messager)、[venus-miner](https://github.com/filecoin-project/venus-miner)、[venus-gateway](https://github.com/ipfs-force-community/venus-gateway). 
+Create and run (or switch from Lotus) your node through shared modules, those fees will be covered by the incubation center so that’s no cost to build your own shared modules like [venus](https://github.com/filecoin-project/venus), [venus-auth](https://github.com/filecoin-project/venus-auth), [venus-messager](https://github.com/filecoin-project/venus-messager), [venus-miner](https://github.com/filecoin-project/venus-miner), [venus-gateway](https://github.com/ipfs-force-community/venus-gateway). 
 
 2. Technical support to solve your issues
 
@@ -74,7 +74,7 @@ For miners who joined this program, if you faced some issues when running with t
 
 3. Simple and easy to build your node on Filecoin Network
 
-Miners who joined this program can just run with（[venus-sealer](https://github.com/filecoin-project/venus-sealer)、[venus-wallet](https://github.com/filecoin-project/venus-wallet)）and make sure to connect with a distributed mining pool then can run with one or a few nodes at the same time. it will be easier to build your own node on the largest distributed storage network. Happy Mining!
+Miners who joined this program can just run with（[venus-sealer](https://github.com/filecoin-project/venus-sealer), [venus-wallet](https://github.com/filecoin-project/venus-wallet)）and make sure to connect with a distributed mining pool then can run with one or a few nodes at the same time. it will be easier to build your own node on the largest distributed storage network. Happy Mining!
 
 
 ##### As a miner of Incubation Center:
