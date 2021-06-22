@@ -5,7 +5,7 @@
 
 #### 1. Application and Review
 
-The Phase1 of Filecoin Miners Incubation Center is from 2021 / 07 / 25 to 2021 / 09 / 30, providing 15 places. Please fill in and submit the [Application Form](http://venusteam.mikecrm.com/1lmpQtj) before 07 / 18. The content of the application form should be detailed and true, so that it can be reviewed as soon as possible. It is worth noting that we will contact each miner who submitted the application form (through the contact information you provided) and feed back the results. Once the application is passed, your node will access the incubation center as soon as possible after 2021 / 07 / 25, and you do not need to wait for the review results of other miners. For more about the Filecoin Miner Incubation Center, see [here]((./README.md)).
+The Phase1 of Filecoin Miners Incubation Center is from 2021 / 07 / 25 to 2021 / 09 / 30, providing 15 places. Please fill in and submit the [Application Form](http://venusteam.mikecrm.com/1lmpQtj) before 07 / 18. The content of the application form should be detailed and true, so that it can be reviewed as soon as possible. It is worth noting that we will contact each miner who submitted the application form (through the contact information you provided) and feed back the results. Once the application is passed, your node will access the incubation center as soon as possible after 2021 / 07 / 25, and you do not need to wait for the review results of other miners. For more about the Filecoin Miner Incubation Center, see [here](./README.md).
 
 #### 2. Deploy the independent modules
 
