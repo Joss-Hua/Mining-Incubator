@@ -1,23 +1,23 @@
 
 # How to join the Filecoin Miner Incubation Center
 
-## 加入流程
+## Process
 
-#### 1. 申请审核
+#### 1. Application and Review
 
-Filecoin矿工孵化中心第一阶段为2021/07/25 - 2021/09/30，提供了15个名额。请于07/18前填写并提交[申请表](http://venusteam.mikecrm.com/1lmpQtj)，申请表内容应详细且真实，以便尽快审核。值得注意的是，我们将与每一个提交申请的矿工取得联系（通过您提供的联系方式）并反馈结果，一旦通过申请，您的节点将在2021/07/25之后尽快接入孵化中心，您并不需要等待其他矿工的审核结果。关于Filecoin矿工孵化中心的更多信息请查看[这里](./README.md)。
+The Phase1 of Filecoin Miners Incubation Center is from 2021 / 07 / 25 to 2021 / 09 / 30, providing 15 places. Please fill in and submit the [Application Form](http://venusteam.mikecrm.com/1lmpQtj) before 07 / 18. The content of the application form should be detailed and true, so that it can be reviewed as soon as possible. It is worth noting that we will contact each miner who submitted the application form (through the contact information you provided) and feed back the results. Once the application is passed, your node will access the incubation center as soon as possible after 2021 / 07 / 25, and you do not need to wait for the review results of other miners. For more about the Filecoin Miner Incubation Center, see [here]((./README.md)).
 
-#### 2. 搭建独立组件
+#### 2. Deploy the independent modules
 
-您需要为您的节点部署必要的Venus独立组件，在这里查看[视频教程]()或[文字教程]()。
+You need to deploy the independent moduler for your nodes. Check out [Video tutorial]() or [Text tutorial]().
 
-#### 3. 接入共享组建
-您需要将您运行状况良好的Venus独立组件接入矿工孵化中心相关分布式矿池的Venus共享组件，在这里查看[视频教程]()或[文字教程]()。
+#### 3. Deploy the shared modules
+You need to connect your independent module to the shared module of the distributed mining pool related to the Miner Incubation Center. Check out [Video tutorial] () or [Text tutorial] ().
 
-## 更多帮助
-以上过程所使用的程序来自开源的[venus](https://github.com/filecoin-project/venus/releases)以及Venus组件，因对程序熟悉程度的不同，不同矿工部署或接入的过程可能会碰到多种问题，比如组件、网络、网关、参数、命令、硬件等。
+## More help
+The program used in the above process comes from the open source [venus](https://github.com/filecoin-project/venus/releases) As well as the Venus module, due to the different familiarity with the program, different miners may encounter a variety of problems in the process of deployment or access, such as modules, network, gateway, parameters, commands, hardware, etc.
 
-您可以进一步了解[Venus常用命令](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Commands.md)、[venus-messager如何使用](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How%20to%20use%20venus%20messager.md)、[Venus远程钱包](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Venus%20wallet.md)、[Venus多签钱包](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Multisig-Wallet.md)以及[venus-wallet如何使用](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Use-Wallet.md)等，如需[更多文档](https://github.com/filecoin-project/venus-docs)可提交PR或Issue，共同完善。同时，Venus提供了[常见问题指南](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Troubleshooting-%26-FAQ.md)可以帮助你解决一些问题。
+You can learn more about the [Commands](https://github.com/filecoin-project/venus-docs/blob/master/docs/Commands.md) of Venus, [How-To-Use-Messager](https://github.com/filecoin-project/venus-docs/blob/master/docs/How-To-Use-Messager.md), [Venus wallet](https://github.com/filecoin-project/venus-docs/blob/master/docs/Venus%20wallet.md), [Multisig-wallet](https://github.com/filecoin-project/venus-docs/blob/master/docs/Multisig-wallet.md),[How-To-Use-Wallet-In-Venus](https://github.com/filecoin-project/venus-docs/blob/master/docs/How-To-Use-Wallet-In-Venus.md). If need more docs, you can submit PR or Issue for common improvement. At the same time, Venus provides a [FAQ](https://github.com/filecoin-project/venus-docs/blob/master/docs/Troubleshooting-%26-FAQ.md) guide to help you solve some problems.
 
 If you have any other questions, feel free to contact us，or leave your comments to ’Joss-Venus‘ on the Filecoin Slack.
 
