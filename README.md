@@ -54,7 +54,7 @@ Due to the different situation with miners, the time and resources required vari
 
 ### Is it suitable for you? 
 
-
+![Rules and Requirements](./images/Rules and Requirements.png)
 
 #### Miner Incubation Center Program (Track 1)
 
