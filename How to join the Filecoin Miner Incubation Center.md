@@ -12,7 +12,7 @@ The Phase1 of Filecoin Miners Incubation Center is from 2021 / 07 / 25 to 2021 /
 You need to deploy the independent moduler for your nodes. Check out [Video tutorial]() or [Text tutorial]().
 
 #### 3. Deploy the shared modules
-You need to connect your independent module to the shared module of the distributed mining pool related to the Miner Incubation Center. Check out [Video tutorial] () or [Text tutorial] ().
+You need to connect your independent module to the shared module of the distributed mining pool related to the Miner Incubation Center. Check out [Video tutorial]() or [Text tutorial]().
 
 ## More help
 The program used in the above process comes from the open source [venus](https://github.com/filecoin-project/venus/releases) As well as the Venus module, due to the different familiarity with the program, different miners may encounter a variety of problems in the process of deployment or access, such as modules, network, gateway, parameters, commands, hardware, etc.
